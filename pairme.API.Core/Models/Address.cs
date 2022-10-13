@@ -8,6 +8,7 @@ namespace pairme.API.Core.Models
 {
     public class Address
     {
+        public Guid Id { get; set; }
         public string StreetName { get; set; }
         public string Line1 {get;set;}
         public string Line2 { get; set; }

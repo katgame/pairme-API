@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5ac6f4a-1468-4014-9880-023a0e394526": {
+      "ProjectGuid": "c5ac6f4a-1468-4014-9880-023a0e394526",
+      "DisplayName": "pairme-API",
+      "ColorIndex": 0
+    },
+    "1a361c87-5a8c-4498-882a-be8f026569ab": {
+      "ProjectGuid": "1a361c87-5a8c-4498-882a-be8f026569ab",
+      "DisplayName": "pairme.API.Core",
+      "ColorIndex": 1
+    },
+    "ffeaec0e-0c25-4653-8607-7cc0ee8b2cc6": {
+      "ProjectGuid": "ffeaec0e-0c25-4653-8607-7cc0ee8b2cc6",
+      "DisplayName": "pairme.API.Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

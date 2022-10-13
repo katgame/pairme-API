@@ -25,4 +25,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\pairme.API.Core\pairme.API.Core.csproj" />
+    <ProjectReference Include="..\pairme.API.Services\pairme.API.Services.csproj" />
+  </ItemGroup>
+
 </Project>

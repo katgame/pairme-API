@@ -1,0 +1,15 @@
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.csproj.AssemblyReference.cache
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.AssemblyInfoInputs.cache
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.AssemblyInfo.cs
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.csproj.CoreCompileInputs.cache
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\bin\Debug\net6.0\pairme.API.Services.deps.json
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\bin\Debug\net6.0\pairme.API.Services.dll
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\bin\Debug\net6.0\ref\pairme.API.Services.dll
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\bin\Debug\net6.0\pairme.API.Services.pdb
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\bin\Debug\net6.0\pairme.API.Core.dll
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\bin\Debug\net6.0\pairme.API.Core.pdb
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.csproj.CopyComplete
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.dll
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\ref\pairme.API.Services.dll
+C:\Code\mabusha\pair-me-api\pairme-api\pairme.API.Services\obj\Debug\net6.0\pairme.API.Services.pdb

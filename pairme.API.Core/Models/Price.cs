@@ -9,6 +9,7 @@ namespace pairme.API.Core.Models
     public class Price
     {
         //*Flat price or full day *\\
+        public Guid Id { get; set; }
         public double FlatRate { get; set; }
 
         //*this is an optional value to a complex job *\\

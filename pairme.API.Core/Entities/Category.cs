@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace pairme.API.Core.Entities
 {
-    public class Category
+    public class Category 
     {
         public Guid Id { get; set; }
         public Guid MasterId { get; set; }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pairme.API.Core.Models
+namespace pairme.API.Core.Entities
 {
     public class Booking
     {

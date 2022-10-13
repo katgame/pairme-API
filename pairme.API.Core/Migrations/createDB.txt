@@ -1,0 +1,2 @@
+﻿step 1: add-migration initialmigration //if migration script is missing
+step 2: update-database

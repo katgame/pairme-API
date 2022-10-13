@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Identity.Web;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using pairme_API.Data;
+using pairme.API.Core.Context;
+using pairme.API.Services;
+using pairme.API.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("pairme_APIContextConnection") ?? throw new InvalidOperationException("Connection string 'pairme_APIContextConnection' not found.");
@@ -13,7 +15,7 @@ builder.Services.AddDbContext<pairme_APIContext>(options =>
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<pairme_APIContext>();
-
+builder.Services.AddTransient<ICategoryService, CategoryService>();
 // Add services to the container.
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddMicrosoftIdentityWebApi(builder.Configuration.GetSection("AzureAd"));
